@@ -1,2 +1,3 @@
 # SMS-Algorithms
-All resources for learning
+## Learning Resources
+**Here** contains all resources you need for learning!
